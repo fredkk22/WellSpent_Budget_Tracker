@@ -2,7 +2,7 @@ import unittest
 import budget
 from budget import create_spend_chart
 
-# In order to run the following tests, run "python3 test_modules.py" in the terminal!
+# In order to run the following tests, run "python3 test_module.py" in the terminal!
 class UnitTests(unittest.TestCase):
     maxDiff = None
     def setUp(self):
