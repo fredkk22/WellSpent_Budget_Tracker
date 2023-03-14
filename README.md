@@ -1,3 +1,10 @@
 # Budget App
 
-This is the boilerplate for the Budget App project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
+## Description
+This is a basic CLI application that employs Python and various modules to run a budget tracking application.
+
+## Creator
+Freddy Kwak: https://www.linkedin.com/in/fred-yj-kwak/ | https://www.github.com/fredkk22
+
+## Contact Me
+If you have any questions about Freddy Kwak or this application, please email him at: freddykwak123@gmail.com
